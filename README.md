@@ -3,6 +3,7 @@
 [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE)
 [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC--BY--4.0-green.svg)](data/LICENSE)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-dataset-yellow.svg)](https://huggingface.co/datasets/katsumasay/cog-bias-bench)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20845756.svg)](https://doi.org/10.5281/zenodo.20845756)
 
 Data resources from the LREC 2026 paper
 *"Persona-Aware Evaluation of Cognitive Bias in LLMs: From Benchmark to Applied
@@ -161,3 +162,7 @@ behavioral–cognitive biases.
   year      = {2026}
 }
 ```
+
+To cite this dataset/code release specifically, use the Zenodo DOI
+(concept DOI, always resolves to the latest version):
+**[10.5281/zenodo.20845756](https://doi.org/10.5281/zenodo.20845756)**.

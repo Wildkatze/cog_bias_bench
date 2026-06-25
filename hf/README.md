@@ -33,6 +33,8 @@ configs:
 
 # Persona-Aware Cognitive-Bias Benchmark
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20845756.svg)](https://doi.org/10.5281/zenodo.20845756)
+
 Data resources from the LREC 2026 paper **"Persona-Aware Evaluation of Cognitive
 Bias in LLMs: From Benchmark to Applied Decision-Making"** (Yoshikawa, Takayama,
 Yamazaki). The suite couples a 12-category cognitive-bias benchmark with a
@@ -135,5 +137,7 @@ Data: **CC BY 4.0**. (Repository code: Apache-2.0.)
   year      = {2026}
 }
 ```
+
+Dataset/code release DOI (Zenodo, concept): **[10.5281/zenodo.20845756](https://doi.org/10.5281/zenodo.20845756)**
 
 Code & reproduction scripts: https://github.com/Wildkatze/cog_bias_bench

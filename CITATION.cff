@@ -14,7 +14,15 @@ authors:
   - family-names: Yamazaki
     given-names: Takato
 license: CC-BY-4.0
+doi: 10.5281/zenodo.20845756
 repository-code: "https://github.com/Wildkatze/cog_bias_bench"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20845756
+    description: Concept DOI (always resolves to the latest version)
+  - type: doi
+    value: 10.5281/zenodo.20845757
+    description: DOI for version v1.0.0
 keywords:
   - LLM evaluation
   - cognitive bias
