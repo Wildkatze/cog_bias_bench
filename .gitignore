@@ -1,0 +1,17 @@
+# Paper sources / PDFs are not redistributed here (LREC/ELRA copyright).
+# Cite via ACL Anthology instead. Kept locally, excluded from the public repo.
+paper/
+docs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/

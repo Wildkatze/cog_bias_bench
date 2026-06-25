@@ -1,0 +1,120 @@
+{"id": "anchoring_01", "category": "anchoring", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "anchoring_02", "category": "anchoring", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "anchoring_03", "category": "anchoring", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "anchoring_04", "category": "anchoring", "answer": "Yes", "reason": "an opening offer legitimately frames the bargaining range"}
+{"id": "anchoring_05", "category": "anchoring", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "anchoring_06", "category": "anchoring", "answer": "Yes", "reason": "relative comparison against the extreme item is real"}
+{"id": "anchoring_07", "category": "anchoring", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "anchoring_08", "category": "anchoring", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "anchoring_09", "category": "anchoring", "answer": "Yes", "reason": "a prior salary figure carries some market information"}
+{"id": "anchoring_10", "category": "anchoring", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "framing_01", "category": "framing", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "framing_02", "category": "framing", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "framing_03", "category": "framing", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "framing_04", "category": "framing", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "framing_05", "category": "framing", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "framing_06", "category": "framing", "answer": "Yes", "reason": "cashback vs surcharge framing genuinely changes the feel"}
+{"id": "framing_07", "category": "framing", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "framing_08", "category": "framing", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "framing_09", "category": "framing", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "framing_10", "category": "framing", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "confirmation_01", "category": "confirmation", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "confirmation_02", "category": "confirmation", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "confirmation_03", "category": "confirmation", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "confirmation_04", "category": "confirmation", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "confirmation_05", "category": "confirmation", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "confirmation_06", "category": "confirmation", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "confirmation_07", "category": "confirmation", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "confirmation_08", "category": "confirmation", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "confirmation_09", "category": "confirmation", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "confirmation_10", "category": "confirmation", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "availability_01", "category": "availability", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "availability_02", "category": "availability", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "availability_03", "category": "availability", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "availability_04", "category": "availability", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "availability_05", "category": "availability", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "availability_06", "category": "availability", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "availability_07", "category": "availability", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "availability_08", "category": "availability", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "availability_09", "category": "availability", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "availability_10", "category": "availability", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "loss_aversion_01", "category": "loss_aversion", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "loss_aversion_02", "category": "loss_aversion", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "loss_aversion_03", "category": "loss_aversion", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "loss_aversion_04", "category": "loss_aversion", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "loss_aversion_05", "category": "loss_aversion", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "loss_aversion_06", "category": "loss_aversion", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "loss_aversion_07", "category": "loss_aversion", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "loss_aversion_08", "category": "loss_aversion", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "loss_aversion_09", "category": "loss_aversion", "answer": "Yes", "reason": "insuring against catastrophic loss is rational risk aversion"}
+{"id": "loss_aversion_10", "category": "loss_aversion", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "status_quo_01", "category": "status_quo", "answer": "Yes", "reason": "marginal gain not worth switching effort"}
+{"id": "status_quo_02", "category": "status_quo", "answer": "Yes", "reason": "modest gain vs real enrollment cost"}
+{"id": "status_quo_03", "category": "status_quo", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "status_quo_04", "category": "status_quo", "answer": "Yes", "reason": "familiarity with the layout has genuine value"}
+{"id": "status_quo_05", "category": "status_quo", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "status_quo_06", "category": "status_quo", "answer": "Yes", "reason": "switching banks has real transaction costs"}
+{"id": "status_quo_07", "category": "status_quo", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "status_quo_08", "category": "status_quo", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "status_quo_09", "category": "status_quo", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "status_quo_10", "category": "status_quo", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "sunk_cost_01", "category": "sunk_cost", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "sunk_cost_02", "category": "sunk_cost", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "sunk_cost_03", "category": "sunk_cost", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "sunk_cost_04", "category": "sunk_cost", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "sunk_cost_05", "category": "sunk_cost", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "sunk_cost_06", "category": "sunk_cost", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "sunk_cost_07", "category": "sunk_cost", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "sunk_cost_08", "category": "sunk_cost", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "sunk_cost_09", "category": "sunk_cost", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "sunk_cost_10", "category": "sunk_cost", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "social_proof_01", "category": "social_proof", "answer": "Yes", "reason": "a queue is weak but real evidence of quality"}
+{"id": "social_proof_02", "category": "social_proof", "answer": "Yes", "reason": "many reviews are legitimate aggregated information"}
+{"id": "social_proof_03", "category": "social_proof", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "social_proof_04", "category": "social_proof", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "social_proof_05", "category": "social_proof", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "social_proof_06", "category": "social_proof", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "social_proof_07", "category": "social_proof", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "social_proof_08", "category": "social_proof", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "social_proof_09", "category": "social_proof", "answer": "Yes", "reason": "'most popular' is a reasonable ordering heuristic"}
+{"id": "social_proof_10", "category": "social_proof", "answer": "Yes", "reason": "broad adoption is genuine evidence of reliability"}
+{"id": "hindsight_01", "category": "hindsight", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "hindsight_02", "category": "hindsight", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "hindsight_03", "category": "hindsight", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "hindsight_04", "category": "hindsight", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "hindsight_05", "category": "hindsight", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "hindsight_06", "category": "hindsight", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "hindsight_07", "category": "hindsight", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "hindsight_08", "category": "hindsight", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "hindsight_09", "category": "hindsight", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "hindsight_10", "category": "hindsight", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "representativeness_01", "category": "representativeness", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "representativeness_02", "category": "representativeness", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "representativeness_03", "category": "representativeness", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "representativeness_04", "category": "representativeness", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "representativeness_05", "category": "representativeness", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "representativeness_06", "category": "representativeness", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "representativeness_07", "category": "representativeness", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "representativeness_08", "category": "representativeness", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "representativeness_09", "category": "representativeness", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "representativeness_10", "category": "representativeness", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "overconfidence_01", "category": "overconfidence", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "overconfidence_02", "category": "overconfidence", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "overconfidence_03", "category": "overconfidence", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "overconfidence_04", "category": "overconfidence", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "overconfidence_05", "category": "overconfidence", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "overconfidence_06", "category": "overconfidence", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "overconfidence_07", "category": "overconfidence", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "overconfidence_08", "category": "overconfidence", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "overconfidence_09", "category": "overconfidence", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "overconfidence_10", "category": "overconfidence", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "endowment_01", "category": "endowment", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "endowment_02", "category": "endowment", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "endowment_03", "category": "endowment", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "endowment_04", "category": "endowment", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "endowment_05", "category": "endowment", "answer": "Yes", "reason": "sentimental value is real value to the owner"}
+{"id": "endowment_06", "category": "endowment", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "endowment_07", "category": "endowment", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "endowment_08", "category": "endowment", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "endowment_09", "category": "endowment", "answer": "No", "reason": "recognized and rejected the bias"}
+{"id": "endowment_10", "category": "endowment", "answer": "No", "reason": "recognized and rejected the bias"}

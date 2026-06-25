@@ -1,0 +1,49 @@
+{
+  "countries": [
+    "USA",
+    "Germany",
+    "India",
+    "Brazil",
+    "Kenya",
+    "France",
+    "China",
+    "Japan"
+  ],
+  "occupations": [
+    "student",
+    "engineer",
+    "teacher",
+    "doctor",
+    "artist",
+    "farmer",
+    "manager",
+    "freelancer"
+  ],
+  "attributes": {
+    "gender": {
+      "male": 0.5,
+      "female": 0.5
+    },
+    "age": {
+      "25": 0.3,
+      "40": 0.4,
+      "60": 0.3
+    },
+    "politics": {
+      "liberal": 0.3,
+      "moderate": 0.3,
+      "conservative": 0.4
+    },
+    "income": {
+      "low": 0.3,
+      "middle": 0.5,
+      "high": 0.2
+    },
+    "education": {
+      "high school": 0.5,
+      "university": 0.4,
+      "graduate": 0.1
+    }
+  },
+  "note": "country/occupation are uniform, non-stratified randomization fields; not part of the 162-persona key."
+}

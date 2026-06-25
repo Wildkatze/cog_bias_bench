@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite the paper below."
+title: "Persona-Aware Cognitive-Bias Benchmark (data rebuild)"
+abstract: >-
+  A reconstruction of the data resources from the LREC 2026 paper
+  "Persona-Aware Evaluation of Cognitive Bias in LLMs": a 12-category, 120-item
+  cognitive-bias benchmark, a 162-persona factorial space, and 100 matched
+  gain/loss financial framing tasks.
+authors:
+  - family-names: Yoshikawa
+    given-names: Katsumasa
+  - family-names: Takayama
+    given-names: Junya
+  - family-names: Yamazaki
+    given-names: Takato
+license: CC-BY-4.0
+repository-code: "https://github.com/Wildkatze/cog_bias_bench"
+keywords:
+  - LLM evaluation
+  - cognitive bias
+  - persona
+  - framing
+  - decision-making
+preferred-citation:
+  type: conference-paper
+  title: "Persona-Aware Evaluation of Cognitive Bias in LLMs: From Benchmark to Applied Decision-Making"
+  authors:
+    - family-names: Yoshikawa
+      given-names: Katsumasa
+    - family-names: Takayama
+      given-names: Junya
+    - family-names: Yamazaki
+      given-names: Takato
+  collection-title: "Proceedings of the 2026 Conference on Language Resources and Evaluation (LREC 2026)"
+  year: 2026
+  # TODO: add ACL Anthology URL / pages / publisher when the paper is indexed.

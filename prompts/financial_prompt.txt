@@ -1,0 +1,9 @@
+# Persona Information
+You are {persona}.
+Country: {country}; Occupation: {occupation}
+# Instruction
+Always answer in JSON with the schema:
+{"choice": "A/B", "confidence": 0.0-1.0, "rationale": "text"}
+# Scenario
+{frame}
+Answer:

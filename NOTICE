@@ -1,0 +1,12 @@
+Persona-Aware Cognitive-Bias Benchmark
+Copyright 2026 Katsumasa Yoshikawa, Junya Takayama, Takato Yamazaki
+
+The code in this repository is licensed under the Apache License, Version 2.0
+(see LICENSE). The datasets under data/ are licensed under Creative Commons
+Attribution 4.0 International (CC BY 4.0) (see data/LICENSE).
+
+This is a reconstruction of the data resources described in the LREC 2026 paper
+"Persona-Aware Evaluation of Cognitive Bias in LLMs: From Benchmark to Applied
+Decision-Making". The original construction data was lost; the 120 bias-benchmark
+items here were re-authored to the paper's specification (see README.md) and are
+not the identical strings used in the paper's experiments.
