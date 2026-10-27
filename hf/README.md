@@ -130,14 +130,30 @@ used to profile, stereotype, or make decisions about real individuals.
 Data: **CC BY 4.0**. (Repository code: Apache-2.0.)
 
 ```bibtex
-@inproceedings{yoshikawa2026persona,
-  title     = {Persona-Aware Evaluation of Cognitive Bias in {LLM}s: From Benchmark to Applied Decision-Making},
-  author    = {Yoshikawa, Katsumasa and Takayama, Junya and Yamazaki, Takato},
-  booktitle = {Proceedings of the 2026 Conference on Language Resources and Evaluation (LREC 2026)},
-  year      = {2026}
+@inproceedings{yoshikawa-etal-2026-persona,
+    title = "Persona-Aware Evaluation of Cognitive Bias in {LLM}s: From Benchmark to Applied Decision-Making",
+    author = "Yoshikawa, Katsumasa  and
+      Takayama, Junya  and
+      Yamazaki, Takato",
+    editor = "Piperidis, Stelios  and
+      Bel, N{\'u}ria  and
+      van den Heuvel, Henk  and
+      Ide, Nancy  and
+      Krek, Simon  and
+      Toral, Antonio",
+    booktitle = "Proceedings of the Fifteenth Language Resources and Evaluation Conference",
+    month = may,
+    year = "2026",
+    address = "Palma de Mallorca, Spain",
+    publisher = "ELRA Language Resource Association",
+    url = "https://aclanthology.org/2026.lrec-1.332/",
+    doi = "10.63317/2dvjjaywrket",
+    pages = "4213--4225"
 }
 ```
 
 Dataset/code release DOI (Zenodo, concept): **[10.5281/zenodo.20845756](https://doi.org/10.5281/zenodo.20845756)**
+
+Paper (ACL Anthology): https://aclanthology.org/2026.lrec-1.332/
 
 Code & reproduction scripts: https://github.com/Wildkatze/cog_bias_bench

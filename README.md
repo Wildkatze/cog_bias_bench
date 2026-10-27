@@ -18,7 +18,8 @@ framing tasks, plus the tooling to build, validate, score, and visualise them.
 > are regenerated deterministically and match the paper exactly. No large-scale
 > LLM experiments are run here.
 
-- 📄 Paper: LREC 2026 (ACL Anthology link — *to be added when indexed*)
+- 📄 Paper: LREC 2026 — ACL Anthology: https://aclanthology.org/2026.lrec-1.332/
+  (DOI: [10.63317/2dvjjaywrket](https://doi.org/10.63317/2dvjjaywrket))
 - 🤗 Dataset: https://huggingface.co/datasets/katsumasay/cog-bias-bench
 
 ## Install
@@ -85,7 +86,7 @@ hf/                         HuggingFace dataset card (staging for upload)
 ```
 
 The paper itself is not redistributed here (LREC/ELRA copyright); cite it via
-ACL Anthology.
+[ACL Anthology](https://aclanthology.org/2026.lrec-1.332/).
 
 ## Prompt assembly
 
@@ -155,11 +156,25 @@ behavioral–cognitive biases.
 ## Citation
 
 ```bibtex
-@inproceedings{yoshikawa2026persona,
-  title     = {Persona-Aware Evaluation of Cognitive Bias in {LLM}s: From Benchmark to Applied Decision-Making},
-  author    = {Yoshikawa, Katsumasa and Takayama, Junya and Yamazaki, Takato},
-  booktitle = {Proceedings of the 2026 Conference on Language Resources and Evaluation (LREC 2026)},
-  year      = {2026}
+@inproceedings{yoshikawa-etal-2026-persona,
+    title = "Persona-Aware Evaluation of Cognitive Bias in {LLM}s: From Benchmark to Applied Decision-Making",
+    author = "Yoshikawa, Katsumasa  and
+      Takayama, Junya  and
+      Yamazaki, Takato",
+    editor = "Piperidis, Stelios  and
+      Bel, N{\'u}ria  and
+      van den Heuvel, Henk  and
+      Ide, Nancy  and
+      Krek, Simon  and
+      Toral, Antonio",
+    booktitle = "Proceedings of the Fifteenth Language Resources and Evaluation Conference",
+    month = may,
+    year = "2026",
+    address = "Palma de Mallorca, Spain",
+    publisher = "ELRA Language Resource Association",
+    url = "https://aclanthology.org/2026.lrec-1.332/",
+    doi = "10.63317/2dvjjaywrket",
+    pages = "4213--4225"
 }
 ```
 

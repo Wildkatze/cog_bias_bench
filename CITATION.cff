@@ -39,6 +39,29 @@ preferred-citation:
       given-names: Junya
     - family-names: Yamazaki
       given-names: Takato
-  collection-title: "Proceedings of the 2026 Conference on Language Resources and Evaluation (LREC 2026)"
+  collection-title: "Proceedings of the Fifteenth Language Resources and Evaluation Conference"
+  conference:
+    name: "LREC 2026"
+    city: "Palma de Mallorca"
+    country: ES
+  publisher:
+    name: "ELRA Language Resource Association"
+  editors:
+    - family-names: Piperidis
+      given-names: Stelios
+    - family-names: Bel
+      given-names: Núria
+    - family-names: van den Heuvel
+      given-names: Henk
+    - family-names: Ide
+      given-names: Nancy
+    - family-names: Krek
+      given-names: Simon
+    - family-names: Toral
+      given-names: Antonio
+  start: 4213
+  end: 4225
+  month: 5
   year: 2026
-  # TODO: add ACL Anthology URL / pages / publisher when the paper is indexed.
+  doi: 10.63317/2dvjjaywrket
+  url: "https://aclanthology.org/2026.lrec-1.332/"
